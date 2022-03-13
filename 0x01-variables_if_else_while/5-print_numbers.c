@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* My main function */
 int main(void)
 {
 	/* My main function */
